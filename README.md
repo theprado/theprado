@@ -1,8 +1,4 @@
-<div align="center">
-<img src="https://rishavanand.github.io/static/images/greetings.gif" align="center" style="width: 100%" />
-</div>  
   
-
 ### <div align="center">Oi,  meu nome é Matheus do Prado - Sou UI Designer e estudante de Front End🚀</div>  
   
 
@@ -21,7 +17,7 @@
 <br/>  
 
 
-## My Skill Set  
+## Skills
 <table><tr><td valign="top" width="33%">
 
 
@@ -64,7 +60,7 @@
 <br/>  
 
 
-## Connect with me  
+## Conecte-se Comigo 
 <div align="center">
 <a href="https://linkedin.com/in/matheus-prado-33937aa1" target="_blank">
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
