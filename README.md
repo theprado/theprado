@@ -2,7 +2,7 @@
 ### <div align="center">Oi,  meu nome é Matheus do Prado - Sou UI Designer e estudante de Front End🚀</div>  
   
 
-- 🔭No momento trabalhando em [Bibliomar](https://github.com/rishavanand/github-profilinator)  
+- 🔭No momento trabalhando em [Bibliomar](https://github.com/Lamarcke/bibliomar-react)  
   
 
 - 🌱No momento aprendendo Tailwind  
