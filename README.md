@@ -5,7 +5,7 @@
 - 🔭No momento trabalhando em [Bibliomar](https://github.com/Lamarcke/bibliomar-react)  
   
 
-- 🌱No momento aprendendo Tailwind  
+- 🌱No momento aprendendo AstroJS 
   
 
 - ❓ Me pergunte qualquer coisa sobre Figma, HTML e CSS  
