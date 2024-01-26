@@ -5,7 +5,7 @@
 - 🔭No momento trabalhando em [GameNode](https://github.com/game-node-app)  
   
 
-- 🌱No momento aprendendo AstroJS 
+- 🌱No momento aprendendo JavaScript
   
 
 - ❓ Me pergunte qualquer coisa sobre Figma, HTML e CSS  
